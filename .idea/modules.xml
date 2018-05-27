@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ccj-security.iml" filepath="$PROJECT_DIR$/ccj-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy-web/ccj-web.iml" filepath="$PROJECT_DIR$/cy-web/ccj-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy-common/cy-common.iml" filepath="$PROJECT_DIR$/cy-common/cy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy-gen/cy-gen.iml" filepath="$PROJECT_DIR$/cy-gen/cy-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy-shiro/cy-shiro.iml" filepath="$PROJECT_DIR$/cy-shiro/cy-shiro.iml" />
+    </modules>
+  </component>
+</project>

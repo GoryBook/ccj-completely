@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ccj-web" />
+        <module name="cy-common" />
+        <module name="cy-gen" />
+        <module name="cy-shiro" />
+        <module name="cy-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ccj-security" target="1.8" />
+      <module name="ccj-web" target="1.8" />
+      <module name="cy-common" target="1.8" />
+      <module name="cy-gen" target="1.8" />
+      <module name="cy-security" target="1.8" />
+      <module name="cy-shiro" target="1.8" />
+      <module name="cy-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
